@@ -7,7 +7,7 @@
 
 :girl: Aarthy.D <br>
 :girl: Ananya. M <br>
-:girl: Charulatha. T. s <br>
+:girl: Charulatha. T. S <br>
 :girl: Jayashri. B
 
 
