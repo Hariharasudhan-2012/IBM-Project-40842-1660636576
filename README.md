@@ -17,8 +17,11 @@ Waste management plays a crucial role these days. As environmental concerns grow
 References:
 
 [1] Saffron, Lisa & Giusti, Lorenzo & Pheby, Derek. (2003). The human health impact of waste management practices: A review of the literature and an evaluation of the evidence. Management of Environmental Quality: An International Journal. 14. 191-213. 10.1108/14777830310470422. 
+
 [2] G. K. Shyam, S. S. Manvi and P. Bharti, "Smart waste management using Internet-of-Things (IoT)," 2017 2nd International Conference on Computing and Communications Technologies (ICCCT), 2017, pp. 199-203, doi: 10.1109/ICCCT2.2017.7972276.
+
 [3] Tran Anh Khoa, Cao Hoang Phuc, Pham Duc Lam, Le Mai Bao Nhu, Nguyen Minh Trong, Nguyen Thi Hoang Phuong, Nguyen Van Dung, Nguyen Tan-Y, Hoang Nam Nguyen, Dang Ngoc Minh Duc, "Waste Management System Using IoT-Based Machine Learning in University", Wireless Communications and Mobile Computing, vol. 2020, Article ID 6138637, 13 pages, 2020. https://doi.org/10.1155/2020/6138637
+
 [4] T. Anagnostopoulos et al., "Challenges and Opportunities of Waste Management in IoT-Enabled Smart Cities: A Survey," in IEEE Transactions on Sustainable Computing, vol. 2, no. 3, pp. 275-289, 1 July-Sept. 2017, doi: 10.1109/TSUSC.2017.2691049.
 
 
