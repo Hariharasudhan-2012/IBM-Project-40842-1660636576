@@ -11,4 +11,7 @@
 :girl: Jayashri. B
 
 
+# Block Diagram
+![download](https://user-images.githubusercontent.com/88130181/190867383-668dae5f-dc51-44b2-aeca-ec36bb09b061.png)
+
 
