@@ -14,6 +14,11 @@
 # :books: Literature Survey
 Waste management plays a crucial role these days. As environmental concerns grow, wastes are to be properly managed and recycled. Improper management will lead to air pollution, and soil erosion may even affect human health. Lisa Saffro, et al. enhance the point about the health impacts of incineration, landfill, composting, landspreading sewage sludge, and sewage discharges [1]. A step to reduce the risks is the proposed work of waste management using IoT. Gopal Kirshna Shyam, et al. submitted a work that utilizes sensors and uses an IoT algorithm that can read, collect, and transmit a huge volume of data over the Internet. These data, when put into a Spatio-temporal context and processed by intelligent and optimized algorithms, can be dynamically handled by waste collection processes [2]. The published work by Tran Anh Khoa et al put forth a low-cost IoT architecture that efficiently achieves waste management by predicting the probability of the waste level in trash bins, by using machine learning and graph theory,  and determine the shortest path of waste collection. It also examines the data transfer on the LoRa module and demonstrates the advantages of the system, which is implemented through a simple circuit designed with low cost, ease of use, and replaceability [3]. "Challenges and Opportunities of Waste Management in IoT-Enabled Smart Cities: A Survey" by Theodoros Anagnostopoulos, et al. gives detailed information on various aspects of IoT in waste management [4]. With the above references, this project proposes a Smart Waste Management System For Metropolitan Cities that detects the level of Garbage in bins, and the weight of the garbage in the bin and alerts the authorized person to empty the bin whenever the bins are full. With further advancements, the Garbage level of the bins can be monitored through a Web App through which we can view the location of every bin by sending GPS location from the device.
 
+# Domain
+
+![embedded-security-for-internet-of-things](https://user-images.githubusercontent.com/113814407/192192761-3d3c97b3-f5ae-4d70-b87e-985037e8557d.gif)
+
+
 # :clipboard: Block Diagram
 ![download](https://user-images.githubusercontent.com/88130181/190867383-668dae5f-dc51-44b2-aeca-ec36bb09b061.png)
 
