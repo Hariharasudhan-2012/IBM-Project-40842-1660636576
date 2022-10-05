@@ -17,6 +17,12 @@ Waste management plays a crucial role these days. As environmental concerns grow
 ![image](https://user-images.githubusercontent.com/103322800/192446103-6d630efb-f7dc-4ab2-97aa-b481334af3fd.png)
 
 
+
+# :world_map: Empaty Map
+
+Site: 
+https://miro.com/app/board/uXjVPQ-A7gE=/?share_link_id=889070378233
+
 # :abacus: Domain
 
 ![embedded-security-for-internet-of-things](https://user-images.githubusercontent.com/113814407/192192761-3d3c97b3-f5ae-4d70-b87e-985037e8557d.gif)
