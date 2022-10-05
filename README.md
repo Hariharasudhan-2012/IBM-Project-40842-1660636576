@@ -18,7 +18,7 @@ Waste management plays a crucial role these days. As environmental concerns grow
 
 
 
-# :world_map: Empaty Map
+# :world_map: Empathy Map
 
 ![WhatsApp Image 2022-10-05 at 13 36 20](https://user-images.githubusercontent.com/88130181/194011533-1aa4b30c-ceb3-4975-b9a5-b4c845c01062.jpeg)
 
