@@ -35,6 +35,41 @@ https://miro.com/app/board/uXjVPQ-A7gE=/?share_link_id=889070378233
 ![download](https://user-images.githubusercontent.com/88130181/190867383-668dae5f-dc51-44b2-aeca-ec36bb09b061.png)
 
 
+# :thumbsup: Tasks Completed
+
+:heavy_check_mark: PREREQUISITES
+
+:heavy_check_mark: PROJECT OBJECTIVES
+
+:heavy_check_mark: CREATE AND CONFIGURE IBM CLOUD SERVICES
+
+:heavy_check_mark: DEVELOP THE PYTHON SCRIPT
+
+:heavy_check_mark: DEVELOP A WEB APPLICATION USING NODE-RED SERVICE
+
+:heavy_check_mark: IDEATION PHASE
+
+:heavy_check_mark: PROJECT DESIGN PHASE – I
+
+:heavy_check_mark: PROJECT DESIGN PHASE -II
+
+:heavy_check_mark: PROJECT PLANNING PHASE
+
+:heavy_check_mark: PROJECT DEVELOPMENT PHASE
+
+:heavy_check_mark: REPORT
+
+:heavy_check_mark: VIDEO
+
+
+
+
+
+
+
+
+
+
 References:
 
 [1] Saffron, Lisa & Giusti, Lorenzo & Pheby, Derek. (2003). The human health impact of waste management practices: A review of the literature and an evaluation of the evidence. Management of Environmental Quality: An International Journal. 14. 191-213. 10.1108/14777830310470422. 
