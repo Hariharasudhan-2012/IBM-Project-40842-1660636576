@@ -20,9 +20,9 @@ This project aims to design and implement a combination of IoT and Application D
 
 ### Objectives (Major):
 
-:checkered_flag: Reduce Air, Water, and Soil Pollution
-:checkered_flag: Reduce Manual Labour
-:checkered_flag: Increase Sustainable Development
+:checkered_flag: Reduce Air, Water, and Soil Pollution <br>
+:checkered_flag: Reduce Manual Labour <br>
+:checkered_flag: Increase Sustainable Development <br>
 :checkered_flag: Reduce common health issues related to improper waste management techniques
 
 # :books: Literature Survey
